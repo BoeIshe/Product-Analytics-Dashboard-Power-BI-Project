@@ -1,5 +1,3 @@
-# Product-Analytics-Dashboard-Power-BI-Project
-This project showcases the full life cycle of developing a Product Analytics Dashboard using Microsoft SQL Server and Power BI. The dashboard provides high-level insights into product, sales, profitability, and discount performance to support strategic decision-making.
 # 📊 Product Analytics Dashboard – Power BI Project
 *A complete end-to-end business intelligence solution*
 
