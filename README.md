@@ -62,7 +62,13 @@ Product_Discount
 - Revenue by Discount Band donut chart  
 - Detailed matrix table  
 - KPI Cards (Profit YOY %, Units Sold YOY %)  
-- Custom tooltip page  
+- Custom tooltip page
+
+## 🔗 Live Power BI Dashboard
+Click below to view the full interactive dashboard:
+
+👉 **[View Dashboard](https://boeishe.github.io/Product-Analytics-Dashboard-Power-BI-Project/)**  
+  
 
 ## 📏 DAX Measures
 ### Profit YOY
