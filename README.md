@@ -68,6 +68,9 @@ Product_Discount
 Click below to view the full interactive dashboard:
 
 👉 **[View Dashboard](https://boeishe.github.io/Product-Analytics-Dashboard-Power-BI-Project/)**  
+
+![Product Analysis](./images/PRODUCT%20ANALYSIS.png)
+
   
 
 ## 📏 DAX Measures
